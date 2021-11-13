@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Capitol-One-Coding-Challenge/static/css/main.7e98cd34.chunk.css",
+    "main.js": "/Capitol-One-Coding-Challenge/static/js/main.382b22d9.chunk.js",
+    "main.js.map": "/Capitol-One-Coding-Challenge/static/js/main.382b22d9.chunk.js.map",
+    "runtime-main.js": "/Capitol-One-Coding-Challenge/static/js/runtime-main.611de13a.js",
+    "runtime-main.js.map": "/Capitol-One-Coding-Challenge/static/js/runtime-main.611de13a.js.map",
+    "static/js/2.bf377777.chunk.js": "/Capitol-One-Coding-Challenge/static/js/2.bf377777.chunk.js",
+    "static/js/2.bf377777.chunk.js.map": "/Capitol-One-Coding-Challenge/static/js/2.bf377777.chunk.js.map",
+    "static/js/3.18df2822.chunk.js": "/Capitol-One-Coding-Challenge/static/js/3.18df2822.chunk.js",
+    "static/js/3.18df2822.chunk.js.map": "/Capitol-One-Coding-Challenge/static/js/3.18df2822.chunk.js.map",
+    "index.html": "/Capitol-One-Coding-Challenge/index.html",
+    "static/css/main.7e98cd34.chunk.css.map": "/Capitol-One-Coding-Challenge/static/css/main.7e98cd34.chunk.css.map",
+    "static/js/2.bf377777.chunk.js.LICENSE.txt": "/Capitol-One-Coding-Challenge/static/js/2.bf377777.chunk.js.LICENSE.txt",
+    "static/media/Biking.74bbb03c.jpg": "/Capitol-One-Coding-Challenge/static/media/Biking.74bbb03c.jpg",
+    "static/media/Boating.4dc522fa.jpg": "/Capitol-One-Coding-Challenge/static/media/Boating.4dc522fa.jpg",
+    "static/media/Camping.2538e7e0.jpg": "/Capitol-One-Coding-Challenge/static/media/Camping.2538e7e0.jpg",
+    "static/media/Climbing.89236661.jpg": "/Capitol-One-Coding-Challenge/static/media/Climbing.89236661.jpg",
+    "static/media/National-Park-Logo.faf3f4ed.png": "/Capitol-One-Coding-Challenge/static/media/National-Park-Logo.faf3f4ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611de13a.js",
+    "static/js/2.bf377777.chunk.js",
+    "static/css/main.7e98cd34.chunk.css",
+    "static/js/main.382b22d9.chunk.js"
+  ]
+}
